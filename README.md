@@ -2,7 +2,7 @@
 
 <p align="center">
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a><br/> <br/>
- 
+<img src="https://github.com/rgarg886/rgarg886/blob/master/typing.gif" alt="Face" width="200" height="200" style="float:left">
   <br>
   <b> Hi it's Rahul here 👋</b>
   <br/><br/>I am Rahul Garg. I am a web development enthusiast. A computer graduate with a passion for programming and development and want to pursue a challenging career and be a part of progressive organization which gives a scope to enhance my knowledge and utilize my skills.
