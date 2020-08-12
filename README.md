@@ -40,7 +40,7 @@
    <H5> Find me around the web 🌎:
 
 - Sharing updates on <a href="https://www.linkedin.com/in/rahul886/">LinkedIn</a> 💼 
-- I post food blogs on <a href="https://www.instagram.com/paapi.paet_">Medium</a> ✍🏾
+- I post food blogs on <a href="https://www.instagram.com/paapi.paet_">paapi.paet</a> ✍🏾
 - More about me on <a href="https://www.instagram.com/rahulgarg.__">Instagram</a> 🏓 </H5>  
 
   </p>
