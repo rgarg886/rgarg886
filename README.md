@@ -1,5 +1,3 @@
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-
 <p align="center">
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a><br/> <br/>
 <img src="https://github.com/rgarg886/rgarg886/blob/master/typing.gif" alt="Face" width="200" height="200" style="float:left">
